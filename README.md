@@ -1,6 +1,3 @@
-# app-dev
-My first repository
-
 ### First Repository
 
 *Action Movies*
@@ -14,5 +11,3 @@ My first repository
 4. Hunter x Hunter
 5. Horimiya
 6. All of us are Dead
-
-
